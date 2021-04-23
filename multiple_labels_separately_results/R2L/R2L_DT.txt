@@ -1,0 +1,600 @@
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.1
+depth:  2
+f1_scores(mean):  0.0
+accuracy(mean):  0.9514588811688529
+precision(mean):  0.0
+recall(mean):  0.0
+roc_auc(mean):  0.8602870041604305
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.1
+depth:  5
+f1_scores(mean):  0.2100401355706368
+accuracy(mean):  0.9545302356912743
+precision(mean):  0.6729827050636109
+recall(mean):  0.12472727272727273
+roc_auc(mean):  0.930019594163686
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.1
+depth:  10
+f1_scores(mean):  0.634225062048792
+accuracy(mean):  0.9678040442831424
+precision(mean):  0.7103222205581885
+recall(mean):  0.5752727272727272
+roc_auc(mean):  0.9513482132013603
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.1
+depth:  20
+f1_scores(mean):  0.6783333837345975
+accuracy(mean):  0.9692161106114237
+precision(mean):  0.6882322976158207
+recall(mean):  0.6690909090909091
+roc_auc(mean):  0.8500936854437844
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.1
+depth:  None
+f1_scores(mean):  0.6818226000243192
+accuracy(mean):  0.9690219405277588
+precision(mean):  0.6799526258572994
+recall(mean):  0.6839999999999999
+roc_auc(mean):  0.8376834334917869
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.3
+depth:  2
+f1_scores(mean):  0.23311377101499633
+accuracy(mean):  0.9559423020195554
+precision(mean):  0.7505914003777474
+recall(mean):  0.13818181818181818
+roc_auc(mean):  0.7931810984383129
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.3
+depth:  5
+f1_scores(mean):  0.6605653656834038
+accuracy(mean):  0.9715991130410032
+precision(mean):  0.7833452974844061
+recall(mean):  0.5785454545454545
+roc_auc(mean):  0.9583239209710166
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.3
+depth:  10
+f1_scores(mean):  0.8673020574329067
+accuracy(mean):  0.9873793309141135
+precision(mean):  0.8863042009709519
+recall(mean):  0.8501818181818181
+roc_auc(mean):  0.9719407600160004
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.3
+depth:  20
+f1_scores(mean):  0.8694231982613934
+accuracy(mean):  0.9873793324719857
+precision(mean):  0.8740391395905329
+recall(mean):  0.865090909090909
+roc_auc(mean):  0.9330656449461971
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.3
+depth:  None
+f1_scores(mean):  0.8694592357446471
+accuracy(mean):  0.9874146276260761
+precision(mean):  0.8760020537173541
+recall(mean):  0.8632727272727273
+roc_auc(mean):  0.9308368230582627
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.5
+depth:  2
+f1_scores(mean):  0.2940775537187781
+accuracy(mean):  0.9580427142091894
+precision(mean):  0.624397966576787
+recall(mean):  0.19345454545454546
+roc_auc(mean):  0.8480418546655475
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.5
+depth:  5
+f1_scores(mean):  0.8223358388735754
+accuracy(mean):  0.9836195869099159
+precision(mean):  0.8716683540340838
+recall(mean):  0.7850909090909091
+roc_auc(mean):  0.9645690584916597
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.5
+depth:  10
+f1_scores(mean):  0.8916918945228087
+accuracy(mean):  0.9897622601236966
+precision(mean):  0.9163380023387646
+recall(mean):  0.8694545454545455
+roc_auc(mean):  0.9674402795742572
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.5
+depth:  20
+f1_scores(mean):  0.891268463228398
+accuracy(mean):  0.9894798428075726
+precision(mean):  0.8943789362747883
+recall(mean):  0.8883636363636365
+roc_auc(mean):  0.9477965766360986
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.5
+depth:  None
+f1_scores(mean):  0.8909188893492519
+accuracy(mean):  0.9894445523270988
+precision(mean):  0.8937066823471923
+recall(mean):  0.8883636363636365
+roc_auc(mean):  0.9434540434281938
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.7
+depth:  2
+f1_scores(mean):  0.49267403361198114
+accuracy(mean):  0.9629498093281186
+precision(mean):  0.7623585750221054
+recall(mean):  0.37527272727272726
+roc_auc(mean):  0.7903543143911358
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.7
+depth:  5
+f1_scores(mean):  0.8325941607366127
+accuracy(mean):  0.9845727305520484
+precision(mean):  0.875865047268704
+recall(mean):  0.796
+roc_auc(mean):  0.9609570740545423
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.7
+depth:  10
+f1_scores(mean):  0.8861532044058797
+accuracy(mean):  0.9893739121670058
+precision(mean):  0.9234581394264527
+recall(mean):  0.852
+roc_auc(mean):  0.9588593879379854
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.7
+depth:  20
+f1_scores(mean):  0.8897905037649496
+accuracy(mean):  0.9893562599163438
+precision(mean):  0.8954422810278692
+recall(mean):  0.8843636363636364
+roc_auc(mean):  0.946309382303647
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.7
+depth:  None
+f1_scores(mean):  0.8874842555692692
+accuracy(mean):  0.9890915073138598
+precision(mean):  0.8896661995084048
+recall(mean):  0.8854545454545455
+roc_auc(mean):  0.9426116638406844
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.8
+depth:  2
+f1_scores(mean):  0.4547322168694521
+accuracy(mean):  0.9632675498400338
+precision(mean):  0.8345154377672033
+recall(mean):  0.32799999999999996
+roc_auc(mean):  0.8536205818898708
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.8
+depth:  5
+f1_scores(mean):  0.8323028476954365
+accuracy(mean):  0.9843432528513152
+precision(mean):  0.8675976332718299
+recall(mean):  0.8
+roc_auc(mean):  0.9661592304346447
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.8
+depth:  10
+f1_scores(mean):  0.8949206121853006
+accuracy(mean):  0.9901506034067706
+precision(mean):  0.9269551277244105
+recall(mean):  0.8654545454545456
+roc_auc(mean):  0.9580501090564788
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.8
+depth:  20
+f1_scores(mean):  0.8993373787238619
+accuracy(mean):  0.9902035352328002
+precision(mean):  0.8972565484171001
+recall(mean):  0.9014545454545454
+roc_auc(mean):  0.9520599240691754
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.8
+depth:  None
+f1_scores(mean):  0.8969832482375575
+accuracy(mean):  0.9899564239758722
+precision(mean):  0.8933163571184751
+recall(mean):  0.9007272727272728
+roc_auc(mean):  0.9501307013868108
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.9
+depth:  2
+f1_scores(mean):  0.4508386479486801
+accuracy(mean):  0.9624909193572873
+precision(mean):  0.8115330093840285
+recall(mean):  0.32945454545454544
+roc_auc(mean):  0.8313034920601197
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.9
+depth:  5
+f1_scores(mean):  0.8274750173866732
+accuracy(mean):  0.9842197057911486
+precision(mean):  0.8799126857061956
+recall(mean):  0.7818181818181819
+roc_auc(mean):  0.9618681808693477
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.9
+depth:  10
+f1_scores(mean):  0.8950840357501371
+accuracy(mean):  0.990132935577386
+precision(mean):  0.9246221975236036
+recall(mean):  0.868
+roc_auc(mean):  0.9571197939476397
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.9
+depth:  20
+f1_scores(mean):  0.8958490354694705
+accuracy(mean):  0.9899034609923975
+precision(mean):  0.8976411743458975
+recall(mean):  0.8941818181818182
+roc_auc(mean):  0.9501646871837724
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  PCA
+percentage_selection:  0.9
+depth:  None
+f1_scores(mean):  0.8925629868194559
+accuracy(mean):  0.989550444020859
+precision(mean):  0.8914058039207908
+recall(mean):  0.8938181818181817
+roc_auc(mean):  0.9460922882561601
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.1
+depth:  2
+f1_scores(mean):  0.4781569848179717
+accuracy(mean):  0.9660212090288358
+precision(mean):  0.9380463472608263
+recall(mean):  0.3210909090909091
+roc_auc(mean):  0.6634154510249904
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.1
+depth:  5
+f1_scores(mean):  0.7624165824514411
+accuracy(mean):  0.9791184810932337
+precision(mean):  0.8542146825769459
+recall(mean):  0.6898181818181819
+roc_auc(mean):  0.9346936256883527
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.1
+depth:  10
+f1_scores(mean):  0.8728044447457106
+accuracy(mean):  0.9881912877083956
+precision(mean):  0.9145316538212807
+recall(mean):  0.8349090909090909
+roc_auc(mean):  0.9801756058947492
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.1
+depth:  20
+f1_scores(mean):  0.8565794608919516
+accuracy(mean):  0.9864791097507771
+precision(mean):  0.8827651761341668
+recall(mean):  0.8320000000000001
+roc_auc(mean):  0.9446177097305594
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.1
+depth:  None
+f1_scores(mean):  0.8550375221291876
+accuracy(mean):  0.9862672920900671
+precision(mean):  0.8766732915824118
+recall(mean):  0.8345454545454546
+roc_auc(mean):  0.9419555713468608
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.3
+depth:  2
+f1_scores(mean):  0.48709792289805715
+accuracy(mean):  0.9664448381187665
+precision(mean):  0.9423831880553448
+recall(mean):  0.3287272727272727
+roc_auc(mean):  0.6644512353061923
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.3
+depth:  5
+f1_scores(mean):  0.7952353570479334
+accuracy(mean):  0.9814131583967406
+precision(mean):  0.8557346912979119
+recall(mean):  0.742909090909091
+roc_auc(mean):  0.9377276128651524
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.3
+depth:  10
+f1_scores(mean):  0.9217263664640629
+accuracy(mean):  0.9927806189473255
+precision(mean):  0.9725351111654831
+recall(mean):  0.876
+roc_auc(mean):  0.9887370029159168
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.3
+depth:  20
+f1_scores(mean):  0.9318129817278772
+accuracy(mean):  0.9933984134473042
+precision(mean):  0.9349476778437449
+recall(mean):  0.9287272727272727
+roc_auc(mean):  0.9698991201859044
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.3
+depth:  None
+f1_scores(mean):  0.9293229630273927
+accuracy(mean):  0.9931336374767362
+precision(mean):  0.9292323605165642
+recall(mean):  0.9294545454545453
+roc_auc(mean):  0.9657968972137583
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.5
+depth:  2
+f1_scores(mean):  0.48709792289805715
+accuracy(mean):  0.9664448381187665
+precision(mean):  0.9423831880553448
+recall(mean):  0.3287272727272727
+roc_auc(mean):  0.6644512353061923
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.5
+depth:  5
+f1_scores(mean):  0.805200026863378
+accuracy(mean):  0.9824192977376658
+precision(mean):  0.8716408653270694
+recall(mean):  0.7483636363636365
+roc_auc(mean):  0.9372504049112594
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.5
+depth:  10
+f1_scores(mean):  0.9314674938682937
+accuracy(mean):  0.9936455480723161
+precision(mean):  0.9772807524267104
+recall(mean):  0.8898181818181818
+roc_auc(mean):  0.9848853200635057
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.5
+depth:  20
+f1_scores(mean):  0.936491595640236
+accuracy(mean):  0.9938573672908981
+precision(mean):  0.9407275979494468
+recall(mean):  0.9323636363636364
+roc_auc(mean):  0.9668022420599047
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.5
+depth:  None
+f1_scores(mean):  0.9377702939902051
+accuracy(mean):  0.993963268331892
+precision(mean):  0.9396356422867234
+recall(mean):  0.9359999999999999
+roc_auc(mean):  0.968984203837173
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.7
+depth:  2
+f1_scores(mean):  0.48709792289805715
+accuracy(mean):  0.9664448381187665
+precision(mean):  0.9423831880553448
+recall(mean):  0.3287272727272727
+roc_auc(mean):  0.6644512353061923
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.7
+depth:  5
+f1_scores(mean):  0.8052814319800907
+accuracy(mean):  0.9824369515461999
+precision(mean):  0.8723479016469288
+recall(mean):  0.748
+roc_auc(mean):  0.9369114269872745
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.7
+depth:  10
+f1_scores(mean):  0.9299963693336885
+accuracy(mean):  0.9935219978964049
+precision(mean):  0.9775392495284718
+recall(mean):  0.8869090909090909
+roc_auc(mean):  0.9831987532929356
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.7
+depth:  20
+f1_scores(mean):  0.9368327747204745
+accuracy(mean):  0.9939103209271396
+precision(mean):  0.9439838295035198
+recall(mean):  0.9298181818181819
+roc_auc(mean):  0.9658225846057735
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.7
+depth:  None
+f1_scores(mean):  0.9380701551296738
+accuracy(mean):  0.9940162281996224
+precision(mean):  0.9427613306767133
+recall(mean):  0.9334545454545454
+roc_auc(mean):  0.9674395876027285
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.8
+depth:  2
+f1_scores(mean):  0.48709792289805715
+accuracy(mean):  0.9664448381187665
+precision(mean):  0.9423831880553448
+recall(mean):  0.3287272727272727
+roc_auc(mean):  0.6644512353061923
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.8
+depth:  5
+f1_scores(mean):  0.8052839478280358
+accuracy(mean):  0.9824369515461999
+precision(mean):  0.8723652920511163
+recall(mean):  0.748
+roc_auc(mean):  0.9369043438190745
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.8
+depth:  10
+f1_scores(mean):  0.9296151972167224
+accuracy(mean):  0.993486698068698
+precision(mean):  0.9771305925520046
+recall(mean):  0.8865454545454545
+roc_auc(mean):  0.9831266557895176
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.8
+depth:  20
+f1_scores(mean):  0.935330362004407
+accuracy(mean):  0.9937691107112053
+precision(mean):  0.9428076633584175
+recall(mean):  0.9279999999999999
+roc_auc(mean):  0.9646144295506597
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.8
+depth:  None
+f1_scores(mean):  0.9352031126727404
+accuracy(mean):  0.9937338093256258
+precision(mean):  0.9392022608899436
+recall(mean):  0.9312727272727273
+roc_auc(mean):  0.9660756375481068
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.9
+depth:  2
+f1_scores(mean):  0.48709792289805715
+accuracy(mean):  0.9664448381187665
+precision(mean):  0.9423831880553448
+recall(mean):  0.3287272727272727
+roc_auc(mean):  0.6644512353061923
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.9
+depth:  5
+f1_scores(mean):  0.8055198445594334
+accuracy(mean):  0.9824546022389896
+precision(mean):  0.8724136012298602
+recall(mean):  0.7483636363636365
+roc_auc(mean):  0.9372748609746766
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.9
+depth:  10
+f1_scores(mean):  0.9305344326254683
+accuracy(mean):  0.9935749453011573
+precision(mean):  0.9787705750477507
+recall(mean):  0.8869090909090909
+roc_auc(mean):  0.9839699572933893
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.9
+depth:  20
+f1_scores(mean):  0.9366643480173089
+accuracy(mean):  0.9938926702343499
+precision(mean):  0.9432754657703063
+recall(mean):  0.9301818181818182
+roc_auc(mean):  0.9663936952747385
+-------------------------------------------------------------------------------------
+preprocess:  standardize
+feature_selection:  ANOVA
+percentage_selection:  0.9
+depth:  None
+f1_scores(mean):  0.9361792835953665
+accuracy(mean):  0.993822065905319
+precision(mean):  0.9397257930578279
+recall(mean):  0.9327272727272728
+roc_auc(mean):  0.9669929095117753
+-------------------------------------------------------------------------------------
